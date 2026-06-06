@@ -1,0 +1,10 @@
+=== Optical matter N-body nonreciprocal forces ===
+Particle positions: [2.5 4.  6. ]
+K(x) values: [2.14043305 3.33021844 4.63692933]
+Nonreciprocal strength matrix Delta (Delta_ij = |K_i-K_j|/(|K_i|+|K_j|)):
+[[0.         0.21748514 0.36835809]
+ [0.21748514 0.         0.16401238]
+ [0.36835809 0.16401238 0.        ]]
+Interpretation: Nonzero off-diagonals indicate broken action-reaction symmetry.
+The largest asymmetry occurs between particles with largest K difference.
+[Finished in 4.9s]

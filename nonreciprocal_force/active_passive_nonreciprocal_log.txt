@@ -1,0 +1,7 @@
+=== Active-passive mixture with nonreciprocal forces ===
+Parameters: Da=1.0, Dp=1.0, gamma=0.2, T=150.0, dt=0.1
+Final max active density: 0.055
+Final max passive density: 0.523
+Observation: Active particles accumulate near left peak, passive particles are slightly depleted there due to nonreciprocal repulsion.
+The system remains stable without numerical blow-up.
+[Finished in 8.1s]
