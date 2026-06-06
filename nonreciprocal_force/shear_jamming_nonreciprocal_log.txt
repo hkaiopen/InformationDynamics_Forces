@@ -1,0 +1,6 @@
+=== Shear-jamming induced mechanical nonreciprocity ===
+Fitted beta = 1.154 ± 0.014 (expected ~1.2)
+Fitted phi_c = 0.639 ± 0.001 (expected ~0.64)
+Interpretation: Nonreciprocal stress strength Δ follows tanh saturation above jamming transition.
+This matches the information dynamics prediction that Δ saturates at 1 for large φ-φ_c.
+[Finished in 6.4s]
